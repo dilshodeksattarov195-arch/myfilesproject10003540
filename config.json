@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspetch",
+        "uuid": 16209660,
+        "checksum": "ih907e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
